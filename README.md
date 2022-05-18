@@ -1,3 +1,6 @@
+
+# Modified version to support latest pymongo version
+ 
 Flask-Session
 =============
 
